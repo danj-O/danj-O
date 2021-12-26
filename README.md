@@ -1,4 +1,4 @@
-### Dan (Danjo) Scott
+### (Danjo)
 
 <!--
 **danj-O/danj-O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
